@@ -17,7 +17,7 @@ Please check below the required plots and the plots that the written scripts cre
 ####Required
 ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png)
 ####What my script created
-![plot1](plot1.png) 
+![plot1](plots/plot1.png) 
 
 
 ### Plot 2
@@ -25,21 +25,21 @@ Please check below the required plots and the plots that the written scripts cre
 ####Required
 ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
 ####What my script created
-![plot1](plot1.png) 
+![plot1](plots/plot2.png) 
 
 ### Plot 3
 
 ####Required
 ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
 ####What my script created
-![plot1](plot1.png) 
+![plot1](plots/plot3.png) 
 
 ### Plot 4
 
 ####Required
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 ####What my script created
-![plot1](plot1.png) 
+![plot1](plots/plot4.png) 
 
 
 NOTE:This assignment uses data from
