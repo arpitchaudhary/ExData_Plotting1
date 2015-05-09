@@ -1,5 +1,5 @@
-##Course Project 1 for Exploratory Analysis 
-### by John Hopkins University on coursera
+#Course Project 1 
+##for Exploratory Analysis by John Hopkins University on coursera
 
 This repository contains all the scripts required to process the original dataset provided and then plot all the required plots.
 
