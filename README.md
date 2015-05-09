@@ -10,7 +10,7 @@ This repository contains all the scripts required to process the original datase
 
 All the plotting scripts(plot1.R, plot2.R, plot3.R, plot4.R) calls process.R only if they do not get data.csv file in the working directory. If the data.csv file is present then the plotting scripts assumes them to be the data used for plotting otherwise process.R creates this file by processing the original dataset.
 
-Please check below the required plots and the plots that the written scripts created.
+Please check below the required plots and the plots that the written scripts created. These plot files can also be found inside the  plots folder in this repository.
 
 ### Plot 1
 
