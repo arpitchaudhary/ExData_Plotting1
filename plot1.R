@@ -9,7 +9,7 @@ if(!file.exists("data.csv"))
 #Reading data that will be used to create the plot.
 data<-read.csv("data.csv")
 #Opening graphic device to draw the plot in a png file.
-png(filename="plot1.png")
+png(filename="plot1.png", width = 504, height = 504)
 #Creating the plot.
 with(data, hist(Global_active_power, xlab="Global Active Power (killowatts)", col="red", main="Global Active Power"))
 

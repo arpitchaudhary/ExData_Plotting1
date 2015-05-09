@@ -13,7 +13,7 @@ data<-read.csv("data.csv", stringsAsFactors=FALSE)
 data$Date<-strptime(data$Date, format="%Y-%m-%d %H:%M:%S")
 
 #Opening graphic device to draw the plot in a png file.
-png(filename="plot4.png")
+png(filename="plot4.png", width = 504, height = 504)
 
 #Creating the plot.
 par(mfrow=c(2,2))

@@ -13,7 +13,7 @@ data<-read.csv("data.csv", stringsAsFactors=FALSE)
 data$Date<-strptime(data$Date, format="%Y-%m-%d %H:%M:%S")
 
 #Opening graphic device to draw the plot in a png file.
-png(filename="plot2.png")
+png(filename="plot2.png", width = 504, height = 504)
 
 #Creating the plot.
 with(data, plot(Date, Global_active_power, xlab="", ylab="Global Active Power (killowatts)", type="n"))
